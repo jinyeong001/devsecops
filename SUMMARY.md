@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Team DevSecOps](README.md)
+* [Who are we](README.md)
 
 ## Nova
 
