@@ -2,7 +2,7 @@
 
 ## # 팀 소개
 
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/WaterMark.JPG" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/WaterMark.JPG" alt=""><figcaption></figcaption></figure></div>
 
 **기획팀**: 장진영, 정재호, 박진우, 안정훈, 지윤정
 
