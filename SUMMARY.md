@@ -12,7 +12,7 @@
 * [5. Jenkins](nova/5.-jenkins.md)
 * [6. SonarQube](nova/6.-sonarqube.md)
 * [7. Web 구축](nova/7.-web.md)
-* [CI/CD 자동화 구축](nova/ci-cd.md)
+* [8. CI/CD 자동화 구축](nova/8.-ci-cd.md)
 
 ## Supernova
 
