@@ -16,4 +16,6 @@
 
 ## Supernova
 
-* [Page 2](supernova/page-2.md)
+* [📋 시나리오](supernova/undefined.md)
+* [모의해킹](supernova/undefined-1.md)
+* [침해 사고 분석](supernova/undefined-2.md)
